@@ -1,0 +1,11 @@
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csprojAssemblyReference.cache
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.frmMain.resources
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+E:\năm 3\phần mềm hướng đối tượng\DoAnCuoiKy\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Views.uctNhanVien.resources
