@@ -11,7 +11,7 @@ namespace QuanLyQuanCaPhe.Models
 {
     class connection
     {
-        public static string sqlcon = "server =LL69AV4GE09FLX9; uid= sa; pwd= 123; database = dbSoftQuanLyNhaHang";
+        public static string sqlcon = "server =DESKTOP-E3RLOEO; uid= sa; pwd= hoahong2312; database = dbSoftQuanLyNhaHang";
         public static SqlConnection Getconnection()
         {
             SqlConnection con = new SqlConnection(sqlcon);

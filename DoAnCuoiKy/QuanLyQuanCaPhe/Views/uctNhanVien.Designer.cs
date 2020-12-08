@@ -81,7 +81,7 @@
             this.grQLNhanVien.Controls.Add(this.txtIdNhanVien);
             this.grQLNhanVien.Location = new System.Drawing.Point(3, 78);
             this.grQLNhanVien.Name = "grQLNhanVien";
-            this.grQLNhanVien.Size = new System.Drawing.Size(585, 182);
+            this.grQLNhanVien.Size = new System.Drawing.Size(581, 182);
             this.grQLNhanVien.TabIndex = 0;
             this.grQLNhanVien.TabStop = false;
             // 
@@ -220,7 +220,7 @@
             this.groupBox1.Controls.Add(this.dgvDanhSachNhanVien);
             this.groupBox1.Location = new System.Drawing.Point(624, 78);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(547, 182);
+            this.groupBox1.Size = new System.Drawing.Size(624, 182);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
@@ -232,7 +232,7 @@
             this.dgvDanhSachNhanVien.Name = "dgvDanhSachNhanVien";
             this.dgvDanhSachNhanVien.RowHeadersWidth = 51;
             this.dgvDanhSachNhanVien.RowTemplate.Height = 24;
-            this.dgvDanhSachNhanVien.Size = new System.Drawing.Size(541, 161);
+            this.dgvDanhSachNhanVien.Size = new System.Drawing.Size(618, 161);
             this.dgvDanhSachNhanVien.TabIndex = 1;
             // 
             // label1
@@ -263,6 +263,7 @@
             this.btnThem.TabIndex = 4;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // btnSua
             // 
@@ -272,6 +273,7 @@
             this.btnSua.TabIndex = 5;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnXoa
             // 
@@ -281,6 +283,7 @@
             this.btnXoa.TabIndex = 6;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnLuu
             // 
@@ -290,6 +293,7 @@
             this.btnLuu.TabIndex = 7;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnHuy
             // 
@@ -299,6 +303,7 @@
             this.btnHuy.TabIndex = 8;
             this.btnHuy.Text = "Hủy";
             this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // btnSeach
             // 
@@ -335,6 +340,7 @@
             this.Controls.Add(this.grQLNhanVien);
             this.Name = "uctNhanVien";
             this.Size = new System.Drawing.Size(1268, 432);
+            this.Load += new System.EventHandler(this.uctNhanVien_Load);
             this.grQLNhanVien.ResumeLayout(false);
             this.grQLNhanVien.PerformLayout();
             this.groupBox1.ResumeLayout(false);
